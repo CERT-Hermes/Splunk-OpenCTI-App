@@ -1,0 +1,6 @@
+<nav search_view="search" color="#00bcd4">
+    <view name="search" default="true" />
+    <view name="reports" />
+    <view name="alerts" />
+    <view name="dashboards" />
+  </nav>
